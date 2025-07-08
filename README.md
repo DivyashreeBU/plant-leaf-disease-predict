@@ -23,6 +23,7 @@ To assist farmers and agricultural experts in identifying plant diseases early b
 Requirements:
 Python need to be installed
 Tensorflow need to be installed
+
 Steps need to be followed in order to execute the file:
 step 1:Download and Execute both the files named PlantVillage.zip(dataset folder) and plantleafpredict.zip
 step 2:copy and paste the dataset folder in predict folder
